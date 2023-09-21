@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673291438053",
+    "project_id": "flutter-semester-project",
+    "storage_bucket": "flutter-semester-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673291438053:android:9fa436426ac5a7241a910c",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673291438053-40e6p1qfho8bt62cljnuok1hsbs4f4pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUn9WZyZ2X-q4KXOzUBY4QEpByovjyAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673291438053-40e6p1qfho8bt62cljnuok1hsbs4f4pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
